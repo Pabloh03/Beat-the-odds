@@ -35,7 +35,7 @@ You will need to guess if the next card is higher or lower (in value) to your pr
 ![Second round](https://user-images.githubusercontent.com/64381840/198905458-90bd44de-72bb-49b5-acf4-fdfa45b87e88.png)
 
 **Round 3:**
-Players will guess whether it will be inside (value more than 1st card and less than 2nd card) or outside (Value less than 1st card and more than 2nd card). If the 3rd card is the same as either the 1st or 2nd card you lose for both outside and inside guesses. Guessing incorrectly will sent you back to round 1.
+Players will guess whether it will be inside (value more than your lowest value card and less than your highest value card) or outside (Value less than lowest card and more than your highest card). If the 3rd card is the same as either the 1st or 2nd card you lose for both outside and inside guesses. Guessing incorrectly will sent you back to round 1.
 
 ![3 round](https://user-images.githubusercontent.com/64381840/198895587-c919c2f2-49a9-43fd-9027-7f31fedceca1.png)
 
