@@ -32,7 +32,7 @@ The game will randomly select a player to start. They must guess the color of th
 You will need to guess if the next card is higher or lower (in value) to your previous card. Guessing incorrectly will sent you back to round 1.
 (You will lose if the value is the same)
 
-![start of the game](https://user-images.githubusercontent.com/64381840/198895338-0447b99d-f786-4ea4-a1df-d82083460027.png)
+![Second round](https://user-images.githubusercontent.com/64381840/198905458-90bd44de-72bb-49b5-acf4-fdfa45b87e88.png)
 
 **Round 3:**
 Players will guess whether it will be inside (value more than 1st card and less than 2nd card) or outside (Value less than 1st card and more than 2nd card). If the 3rd card is the same as either the 1st or 2nd card you lose for both outside and inside guesses. Guessing incorrectly will sent you back to round 1.
