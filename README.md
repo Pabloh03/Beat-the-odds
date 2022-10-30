@@ -3,7 +3,7 @@
 **Version requirements:**
 
 Python 3.8.5
-pygame 2.0.1
+<br>pygame 2.0.1
 
 
 Card game where players take chances predicting the color, value or suit of a card. 
