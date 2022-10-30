@@ -8,11 +8,11 @@ pygame 2.0.1
 
 Card game where players take chances predicting the color, value or suit of a card. 
 
-About the game:
--Each player will start with a deck of 52 cards.
--Player automatically loses if they run out of cards. 
--Up to 9 players can play at a time.
--Card value ranking is as follow: Ace, 2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, King.
+*About the game:*
+Each player will start with a deck of 52 cards.
+Player automatically loses if they run out of cards. 
+Up to 9 players can play at a time.
+Card value ranking is as follow: Ace, 2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, King.
 
 
 Start:
